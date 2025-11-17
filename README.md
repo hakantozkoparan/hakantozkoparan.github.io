@@ -1,5 +1,8 @@
-# Medicine Tracker App (İlaç Takip Uygulaması)
+# Wordford - İngilizce Kelimeler
 
-Bu proje, kullanıcıların günlük ilaç takibini kolaylaştırmak, ilaç saatlerini hatırlatmak ve ilaç geçmişini yönetmek amacıyla geliştirilmiş güvenli bir mobil uygulamadır. React Native ve Expo kullanılarak oluşturulmuş, kapsamlı güvenlik önlemleri ve admin yönetim sistemi ile donatılmıştır.
+Bu proje, kullanıcıların günlük olarak ingilizce kelime öğrenmesini amaçlamaktadır. Kullanıcılar öğrendiği kelimelere isteğe bağlı olarak örnek cümlelerini de yazarak pekiştirmesi amaçlanmıştır.
 
 Contact: hakantozkoparan0@gmail.com
+
+
+
