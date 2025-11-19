@@ -63,3 +63,16 @@
   "result": null,
   "accessRule": "premium"
 }
+{
+  "id": "6",
+  "homeTeam": "Galatasaray",
+  "awayTeam": "Fenerbahçe",
+  "league": "Türkiye Süper Ligi",
+  "date": "25/10/2025",
+  "time": "20:00",
+  "prediction": "2.5 Üst",
+  "description": "Bu alanda maçın detaylı analiz ve yorumları bulunur.",
+  "status": "active",
+  "result": null,
+  "accessRule": "premium"
+}
