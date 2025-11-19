@@ -9,7 +9,8 @@
   "description": "Bu alanda maçın detaylı analiz ve yorumları bulunur.",
   "status": "active",
   "result": null,
-  "accessRule": "free"
+  "accessRule": "free",
+  "odds": "1.79"
 }
 {
   "id": "2",
@@ -23,6 +24,7 @@
   "status": "finished",
   "result": "win",
   "accessRule": "free"
+  "odds": "1.79"
 }
 {
   "id": "3",
@@ -36,6 +38,7 @@
   "status": "active",
   "result": "",
   "accessRule": "free"
+  "odds": "1.79"
 }
 {
   "id": "4",
@@ -49,6 +52,7 @@
   "status": "active",
   "result": null,
   "accessRule": "ad"
+  "odds": "1.79"
 }
 {
   "id": "5",
@@ -62,6 +66,7 @@
   "status": "active",
   "result": null,
   "accessRule": "premium"
+  "odds": "1.79"
 }
 {
   "id": "6",
@@ -75,4 +80,5 @@
   "status": "finished",
   "result": "lose",
   "accessRule": "premium"
+  "odds": "1.79"
 }
