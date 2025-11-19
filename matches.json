@@ -23,7 +23,7 @@
   "description": "Bu alanda maçın detaylı analiz ve yorumları bulunur.",
   "status": "finished",
   "result": "win",
-  "accessRule": "free"
+  "accessRule": "free",
   "odds": "1.79"
 }
 {
@@ -37,7 +37,7 @@
   "description": "Bu alanda maçın detaylı analiz ve yorumları bulunur.",
   "status": "active",
   "result": "",
-  "accessRule": "free"
+  "accessRule": "free",
   "odds": "1.79"
 }
 {
@@ -51,7 +51,7 @@
   "description": "Bu alanda maçın detaylı analiz ve yorumları bulunur.",
   "status": "active",
   "result": null,
-  "accessRule": "ad"
+  "accessRule": "ad",
   "odds": "1.79"
 }
 {
@@ -65,7 +65,7 @@
   "description": "Bu alanda maçın detaylı analiz ve yorumları bulunur.",
   "status": "active",
   "result": null,
-  "accessRule": "premium"
+  "accessRule": "premium",
   "odds": "1.79"
 }
 {
@@ -79,6 +79,6 @@
   "description": "Bu alanda maçın detaylı analiz ve yorumları bulunur.",
   "status": "finished",
   "result": "lose",
-  "accessRule": "premium"
+  "accessRule": "premium",
   "odds": "1.79"
 }
