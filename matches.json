@@ -89,7 +89,7 @@
   "league": "bundesliga",
   "date": "2025-01-20",
   "time": "20:00",
-  "predictions": "[btts_yes]",
+  "predictions": "["btts_yes"]",
   "description": "Bu alanda maçın detaylı analiz ve yorumları bulunur.",
   "status": "active",
   "result": null,
