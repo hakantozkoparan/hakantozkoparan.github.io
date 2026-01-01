@@ -1,1 +1,16 @@
-
+{
+  "id": "1",
+  "homeTeam": "Bristol City",
+  "awayTeam": "Portsmouth",
+  "league": "premier_league",
+  "date": "01/01/2026",
+  "time": "18:00",
+  "predictions": [
+    "ms_1"
+  ],
+  "description": "TR: Açılış oranlarına uygun 113 maç bulundu. Bu maçların %72'si MS 1 olarak sonuçlandı.\nEN: A total of 113 matches matching the opening odds were found. 72% of these matches ended with a home win (FT 1).",
+  "status": "active",
+  "result": null,
+  "accessRule": "free",
+  "odds": "1.62"
+}
