@@ -1,26 +1,101 @@
 [
   {
-  "away": "Fenerbahce",
-  "date": "30/11/2025",
-  "home": "Galatasaray",
-  "time": "20:00",
-  "status": "active",
-  "message1": "Bülten açılış oranları: (1.25) - (5.5) - (11.0)\nGeçmişte aynı açılış oranlarına sahip 110 maç oynandı.\n-Ev Sahibi Galibiyeti: 71.8% (79)\n-Beraberlik: 18.2% (20)\n-Deplasman Galibiyeti: 10.0% (11)",
-  "message2": "2.5 Alt ve Üst bülten açılış oranları (2.0) - (1.8) olan 654 maç oynandı.\n-2.5 Alt: 45.3% (296)\n-2.5 Üst: 54.7% (358)",
-  "messageen1": "Newsletter opening odds: (1.25) - (5.5) - (11.0)\nIn the past, 110 matches were played with the same opening odds.\n-Home Win: 71.8% (79)\n-Draw: 18.2% (20)\n-Away Win: 10.0% (11)",
-  "messageen2": "2.5 Under and Over newsletter opening odds (2.0) - (1.8) were played in 654 matches.\n-Under 2.5: 45.3% (296)\n-Over 2.5: 54.7% (358)"
-    
-},
-{
-  "away": "Arsenal",
-  "date": "30/11/2025",
-  "home": "Manchester United",
-  "time": "20:00",
-  "status": "active",
-  "message1": "Bülten açılış oranları: (1.25) - (5.5) - (11.0)\nGeçmişte aynı açılış oranlarına sahip 110 maç oynandı.\n-Ev Sahibi Galibiyeti: 71.8% (79)\n-Beraberlik: 18.2% (20)\n-Deplasman Galibiyeti: 10.0% (11)",
-  "message2": "2.5 Alt ve Üst bülten açılış oranları (2.0) - (1.8) olan 654 maç oynandı.\n-2.5 Alt: 45.3% (296)\n-2.5 Üst: 54.7% (358)",
-  "messageen1": "Newsletter opening odds: (1.25) - (5.5) - (11.0)\nIn the past, 110 matches were played with the same opening odds.\n-Home Win: 71.8% (79)\n-Draw: 18.2% (20)\n-Away Win: 10.0% (11)",
-  "messageen2": "2.5 Under and Over newsletter opening odds (2.0) - (1.8) were played in 654 matches.\n-Under 2.5: 45.3% (296)\n-Over 2.5: 54.7% (358)"
-  
-}
+    "away": "Amagaju",
+    "date": "02/01/2026",
+    "home": "Marines",
+    "time": "16:00",
+    "status": "active",
+    "message1": "Bülten açılış oranları: (1.88) - (3.02) - (4.20)\nGeçmişte aynı açılış oranlarına sahip 5 maç oynandı.\n-Ev Sahibi Galibiyeti: 40% (2)\n-Beraberlik: 60% (3)\n-Deplasman Galibiyeti: 0% (0)",
+    "message2": "2.5 Alt ve Üst bülten açılış oranları (2.60) - (1.40) olan 2 maç oynandı.\n-2.5 Alt: 100% (2)\n-2.5 Üst: 0% (0)",
+    "messageen1": "Newsletter opening odds: (1.88) - (3.02) - (4.20)\nIn the past, 5 matches were played with the same opening odds.\n-Home Win: 40% (2)\n-Draw: 60% (3)\n-Away Win: 0% (0)",
+    "messageen2": "2.5 Under and Over newsletter opening odds (2.60) - (1.40) were played in 2 matches.\n-Under 2.5: 100% (2)\n-Over 2.5: 0% (0)"
+  },
+  {
+    "away": "Al Khaleej",
+    "date": "02/01/2026",
+    "home": "Al Najma",
+    "time": "16:30",
+    "status": "active",
+    "message1": "Bülten açılış oranları: (3.80) - (3.60) - (1.80)\nGeçmişte aynı açılış oranlarına sahip 44 maç oynandı.\n-Ev Sahibi Galibiyeti: 15.91% (7)\n-Beraberlik: 20.45% (9)\n-Deplasman Galibiyeti: 63.64% (28)",
+    "message2": "2.5 Alt ve Üst bülten açılış oranları (1.67) - (2.15) olan 2697 maç oynandı.\n-2.5 Alt: 42.97% (1159)\n-2.5 Üst: 57.03% (1538)",
+    "messageen1": "Newsletter opening odds: (3.80) - (3.60) - (1.80)\nIn the past, 44 matches were played with the same opening odds.\n-Home Win: 15.91% (7)\n-Draw: 20.45% (9)\n-Away Win: 63.64% (28)",
+    "messageen2": "2.5 Under and Over newsletter opening odds (1.67) - (2.15) were played in 2697 matches.\n-Under 2.5: 42.97% (1159)\n-Over 2.5: 57.03% (1538)"
+  },
+  {
+    "away": "Al Okhdood",
+    "date": "02/01/2026",
+    "home": "Al Ettifaq",
+    "time": "17:35",
+    "status": "active",
+    "message1": "Bülten açılış oranları: (1.73) - (3.75) - (4.00)\nGeçmişte aynı açılış oranlarına sahip 31 maç oynandı.\n-Ev Sahibi Galibiyeti: 41.94% (13)\n-Beraberlik: 38.71% (12)\n-Deplasman Galibiyeti: 19.35% (6)",
+    "message2": "2.5 Alt ve Üst bülten açılış oranları (1.75) - (2.05) olan 3188 maç oynandı.\n-2.5 Alt: 45.83% (1461)\n-2.5 Üst: 54.17% (1727)",
+    "messageen1": "Newsletter opening odds: (1.73) - (3.75) - (4.00)\nIn the past, 31 matches were played with the same opening odds.\n-Home Win: 41.94% (13)\n-Draw: 38.71% (12)\n-Away Win: 19.35% (6)",
+    "messageen2": "2.5 Under and Over newsletter opening odds (1.75) - (2.05) were played in 3188 matches.\n-Under 2.5: 45.83% (1461)\n-Over 2.5: 54.17% (1727)"
+  },
+  {
+    "away": "Al Arabi",
+    "date": "02/01/2026",
+    "home": "Al Shabab",
+    "time": "18:40",
+    "status": "active",
+    "message1": "Bülten açılış oranları: (6.82) - (4.35) - (1.38)\nGeçmişte aynı açılış oranlarına sahip 0 maç oynandı.\n-Ev Sahibi Galibiyeti: 0% (0)\n-Beraberlik: 0% (0)\n-Deplasman Galibiyeti: 0% (0)",
+    "message2": "2.5 Alt ve Üst bülten açılış oranları (1.67) - (2.06) olan 1415 maç oynandı.\n-2.5 Alt: 45.3% (641)\n-2.5 Üst: 54.7% (774)",
+    "messageen1": "Newsletter opening odds: (6.82) - (4.35) - (1.38)\nIn the past, 0 matches were played with the same opening odds.\n-Home Win: 0% (0)\n-Draw: 0% (0)\n-Away Win: 0% (0)",
+    "messageen2": "2.5 Under and Over newsletter opening odds (1.67) - (2.06) were played in 1415 matches.\n-Under 2.5: 45.3% (641)\n-Over 2.5: 54.7% (774)"
+  },
+  {
+    "away": "Al Nassr",
+    "date": "02/01/2026",
+    "home": "Al Ahli",
+    "time": "20:30",
+    "status": "active",
+    "message1": "Bülten açılış oranları: (3.80) - (3.80) - (1.75)\nGeçmişte aynı açılış oranlarına sahip 23 maç oynandı.\n-Ev Sahibi Galibiyeti: 17.39% (4)\n-Beraberlik: 21.74% (5)\n-Deplasman Galibiyeti: 60.87% (14)",
+    "message2": "2.5 Alt ve Üst bülten açılış oranları (1.53) - (2.38) olan 1479 maç oynandı.\n-2.5 Alt: 38.88% (575)\n-2.5 Üst: 61.12% (904)",
+    "messageen1": "Newsletter opening odds: (3.80) - (3.80) - (1.75)\nIn the past, 23 matches were played with the same opening odds.\n-Home Win: 17.39% (4)\n-Draw: 21.74% (5)\n-Away Win: 60.87% (14)",
+    "messageen2": "2.5 Under and Over newsletter opening odds (1.53) - (2.38) were played in 1479 matches.\n-Under 2.5: 38.88% (575)\n-Over 2.5: 61.12% (904)"
+  },
+  {
+    "away": "Lens",
+    "date": "02/01/2026",
+    "home": "Toulouse",
+    "time": "22:45",
+    "status": "active",
+    "message1": "Bülten açılış oranları: (2.80) - (3.30) - (2.45)\nGeçmişte aynı açılış oranlarına sahip 193 maç oynandı.\n-Ev Sahibi Galibiyeti: 31.09% (60)\n-Beraberlik: 28.5% (55)\n-Deplasman Galibiyeti: 40.41% (78)",
+    "message2": "2.5 Alt ve Üst bülten açılış oranları (2.00) - (1.80) olan 2073 maç oynandı.\n-2.5 Alt: 53.98% (1119)\n-2.5 Üst: 46.02% (954)",
+    "messageen1": "Newsletter opening odds: (2.80) - (3.30) - (2.45)\nIn the past, 193 matches were played with the same opening odds.\n-Home Win: 31.09% (60)\n-Draw: 28.5% (55)\n-Away Win: 40.41% (78)",
+    "messageen2": "2.5 Under and Over newsletter opening odds (2.00) - (1.80) were played in 2073 matches.\n-Under 2.5: 53.98% (1119)\n-Over 2.5: 46.02% (954)"
+  },
+  {
+    "away": "AC Milan",
+    "date": "02/01/2026",
+    "home": "Cagliari",
+    "time": "22:45",
+    "status": "active",
+    "message1": "Bülten açılış oranları: (7.00) - (3.80) - (1.50)\nGeçmişte aynı açılış oranlarına sahip 3 maç oynandı.\n-Ev Sahibi Galibiyeti: 33.33% (1)\n-Beraberlik: 0% (0)\n-Deplasman Galibiyeti: 66.67% (2)",
+    "message2": "2.5 Alt ve Üst bülten açılış oranları (2.00) - (1.80) olan 2073 maç oynandı.\n-2.5 Alt: 53.98% (1119)\n-2.5 Üst: 46.02% (954)",
+    "messageen1": "Newsletter opening odds: (7.00) - (3.80) - (1.50)\nIn the past, 3 matches were played with the same opening odds.\n-Home Win: 33.33% (1)\n-Draw: 0% (0)\n-Away Win: 66.67% (2)",
+    "messageen2": "2.5 Under and Over newsletter opening odds (2.00) - (1.80) were played in 2073 matches.\n-Under 2.5: 53.98% (1119)\n-Over 2.5: 46.02% (954)"
+  },
+  {
+    "away": "Getafe",
+    "date": "02/01/2026",
+    "home": "Rayo Vallecano",
+    "time": "23:00",
+    "status": "active",
+    "message1": "Bülten açılış oranları: (2.15) - (2.90) - (3.90)\nGeçmişte aynı açılış oranlarına sahip 12 maç oynandı.\n-Ev Sahibi Galibiyeti: 50% (6)\n-Beraberlik: 41.67% (5)\n-Deplasman Galibiyeti: 8.33% (1)",
+    "message2": "2.5 Alt ve Üst bülten açılış oranları (3.00) - (1.40) olan 142 maç oynandı.\n-2.5 Alt: 71.13% (101)\n-2.5 Üst: 28.87% (41)",
+    "messageen1": "Newsletter opening odds: (2.15) - (2.90) - (3.90)\nIn the past, 12 matches were played with the same opening odds.\n-Home Win: 50% (6)\n-Draw: 41.67% (5)\n-Away Win: 8.33% (1)",
+    "messageen2": "2.5 Under and Over newsletter opening odds (3.00) - (1.40) were played in 142 matches.\n-Under 2.5: 71.13% (101)\n-Over 2.5: 28.87% (41)"
+  },
+  {
+    "away": "Nacional",
+    "date": "02/01/2026",
+    "home": "Vitoria Guimaraes",
+    "time": "23:45",
+    "status": "active",
+    "message1": "Bülten açılış oranları: (1.86) - (3.40) - (4.33)\nGeçmişte aynı açılış oranlarına sahip 147 maç oynandı.\n-Ev Sahibi Galibiyeti: 53.06% (78)\n-Beraberlik: 27.21% (40)\n-Deplasman Galibiyeti: 19.73% (29)",
+    "message2": "2.5 Alt ve Üst bülten açılış oranları (2.08) - (1.73) olan 1699 maç oynandı.\n-2.5 Alt: 55.39% (941)\n-2.5 Üst: 44.61% (758)",
+    "messageen1": "Newsletter opening odds: (1.86) - (3.40) - (4.33)\nIn the past, 147 matches were played with the same opening odds.\n-Home Win: 53.06% (78)\n-Draw: 27.21% (40)\n-Away Win: 19.73% (29)",
+    "messageen2": "2.5 Under and Over newsletter opening odds (2.08) - (1.73) were played in 1699 matches.\n-Under 2.5: 55.39% (941)\n-Over 2.5: 44.61% (758)"
+  }
 ]
