@@ -14,3 +14,35 @@
   "accessRule": "free",
   "odds": "1.62"
 }
+{
+  "id": "2",
+  "homeTeam": "Cagliari",
+  "awayTeam": "AC Milan",
+  "league": "seria_a",
+  "date": "02/01/2026",
+  "time": "22:45",
+  "predictions": [
+    "ms_2","over_1_5"
+  ],
+  "description": "TR: Milan'ın hem kadro derinliği hem de zirve yarışı motivasyonu ağır basıyor. Cagliari direnç gösterse de Milan'ın kalite farkıyla sahadan 3 puanla ayrılması en muhtemel sonuç.\nEN: Milan's squad depth and title race motivation carry significant weight. Even if Cagliari shows resilience, the most likely outcome is Milan securing all 3 points thanks to their superior quality.",
+  "status": "active",
+  "result": "null",
+  "accessRule": "ad",
+  "odds": "1.64"
+}
+{
+  "id": "3",
+  "homeTeam": "Eibar",
+  "awayTeam": "Mirandes",
+  "league": "Spain 2",
+  "date": "02/01/2026",
+  "time": "22:30",
+  "predictions": [
+    "over_1_5", "btts_yes"
+  ],
+  "description": "TR: Eibar en az 1-2 gol bulacaktır. Mirandes’in de kontra atakla cevap verme ihtimali masada.\nEN: Eibar will likely find at least one or two goals. The possibility of Mirandes responding via counter-attacks is also on the table.",
+  "status": "active",
+  "result": "null",
+  "accessRule": "ad",
+  "odds": "1.40"
+}
