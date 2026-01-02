@@ -25,8 +25,8 @@
     "ms_2","over_1_5"
   ],
   "description": "TR: Milan'ın hem kadro derinliği hem de zirve yarışı motivasyonu ağır basıyor. Cagliari direnç gösterse de Milan'ın kalite farkıyla sahadan 3 puanla ayrılması en muhtemel sonuç.\nEN: Milan's squad depth and title race motivation carry significant weight. Even if Cagliari shows resilience, the most likely outcome is Milan securing all 3 points thanks to their superior quality.",
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "win",
   "accessRule": "ad",
   "odds": "1.64"
 }
@@ -41,8 +41,8 @@
     "over_1_5", "btts_yes"
   ],
   "description": "TR: Eibar en az 1-2 gol bulacaktır. Mirandes’in de kontra atakla cevap verme ihtimali masada.\nEN: Eibar will likely find at least one or two goals. The possibility of Mirandes responding via counter-attacks is also on the table.",
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "win",
   "accessRule": "ad",
   "odds": "1.40"
 }
