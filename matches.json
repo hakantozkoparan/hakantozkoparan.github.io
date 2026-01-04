@@ -94,3 +94,53 @@
   "accessRule": "premium",
   "odds": "1.55"
 }
+{
+  "id": "7",
+  "homeTeam": "Marsilya",
+  "awayTeam": "Nantes",
+  "league": "ligue_1",
+  "date": "04/01/2026",
+  "time": "17:00",
+  "predictions": [
+    "ms_1", "over_1_5"
+  ],
+  "description": "TR: Marsilya'nın maçın başında bulacağı bir gol, Nantes'ın direncini tamamen kıracaktır. Nantes savunmasının ligin en çok gol atan oyuncusu Greenwood'u durdurması mucizelere bağlı görünüyor. \n An early goal for Marseille would completely break Nantes' resistance. It seems like a miracle would be enough for the Nantes defense to stop Greenwood, the league's top scorer.", 
+  "status": "active",
+  "result": "null",
+  "accessRule": "free",
+  "odds": "1.40"
+}
+{
+  "id": "8",
+  "homeTeam": "Marsilya",
+  "awayTeam": "Nantes",
+  "league": "ligue_1",
+  "date": "04/01/2026",
+  "time": "17:00",
+  "predictions": [
+    "over_2_5"
+  ],
+  "description": "TR: Marsilya'nın maçın başında bulacağı bir gol, Nantes'ın direncini tamamen kıracaktır. Nantes savunmasının ligin en çok gol atan oyuncusu Greenwood'u durdurması mucizelere bağlı görünüyor. \n An early goal for Marseille would completely break Nantes' resistance. It seems like a miracle would be enough for the Nantes defense to stop Greenwood, the league's top scorer.", 
+  "status": "active",
+  "result": "null",
+  "accessRule": "ad",
+  "odds": "1.46"
+}
+{
+  "id": "9",
+  "homeTeam": "Derby",
+  "awayTeam": "Wrexham",
+  "league": "Championship",
+  "date": "04/01/2026",
+  "time": "18:00",
+  "predictions": [
+    "btts_yes"
+  ],
+  "description": "TR: İki takım arasında sezonun ilk yarısında oynanan maç 1-1 berabere bitmişti. Wrexham'ın kalesinde maç başına 15.3 şut gördüğü (ligin en yükseği) düşünülürse Derby'nin gol bulması çok muhtemel. Ancak Wrexham'daki eksikler gol yollarını tıkayabilir. \n EN: The first leg between the two teams in the first half of the season ended in a 1-1 draw. Considering Wrexham are conceding an average of 15.3 shots on goal per game (the highest in the league), Derby are very likely to score. However, Wrexham's absences could hinder their goal-scoring efforts.", 
+  "status": "active",
+  "result": "null",
+  "accessRule": "premium",
+  "odds": "2.10"
+}
+
+
