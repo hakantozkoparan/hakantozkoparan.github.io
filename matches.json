@@ -57,8 +57,8 @@
     "ms_1"
   ],
   "description": "TR: Bu maçta MS 1 tercihi, Brighton’ın iç sahada oyunu kontrol eden yapısı ve Burnley’nin deplasmanda hem savunma zaafları hem de ciddi form düşüklüğü yaşaması nedeniyle mantıklı görünüyor. Brighton son haftalarda skor üretmekte zorlanmış olsa da evinde baskıyı daha rahat kurabilen bir takım ve Burnley gibi özgüveni düşük, uzun süredir kazanamayan rakiplere karşı genelde fırsat hatası yapmıyor. Burnley’nin kapanarak direnme planı ilk golü yedikten sonra kolay bozulabiliyor ve bu da maçın kontrolünün Brighton’a geçmesine neden oluyor. Genel senaryoda Brighton’ın özellikle ikinci yarıda bulacağı gollerle maçı kazanması daha olası duruyor; bu yüzden MS 1, risk barındırsa da maçın en güvenilir sonucu olarak öne çıkıyor. \n EN: The MS 1 pick in this match appears reasonable due to Brighton’s ability to control games at home and Burnley’s defensive weaknesses and severe drop in form when playing away. Although Brighton have struggled to convert chances in recent weeks, they are a team that applies pressure more comfortably on their own ground and usually do not miss opportunities against low-confidence opponents like Burnley, who have gone a long time without a win. Burnley’s plan to sit deep and resist tends to break down once they concede the first goal, which allows Brighton to take full control of the match. In the overall scenario, Brighton are more likely to secure the win with goals, especially in the second half, making MS 1 the most reliable outcome despite carrying some risk.",
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "win",
   "accessRule": "free",
   "odds": "1.47"
 }
@@ -73,8 +73,8 @@
     "over_2_5"
   ],
   "description": "TR: Bu maçta 2.5 üst tercihi, Brighton’ın iç sahada tempolu ve hücum odaklı bir oyun anlayışına sahip olması ve bu yapının doğal olarak çok sayıda gol pozisyonu üretmesi nedeniyle öne çıkıyor. Brighton savunmada zaman zaman boşluklar verebildiği için rakibine gol şansı tanıyabiliyor, bu da maçın skor potansiyelini artırıyor. Deplasmanda savunma disiplini zayıf olan Burnley ise baskı yediğinde kolay gol yiyen ve geriye düştüğünde oyunu açmak zorunda kalan bir takım. Brighton’ın erken bir gol bulması halinde maçın temposunun yükselmesi ve iki tarafın da daha fazla risk alması bekleniyor; bu da karşılaşmanın 2.5 üst bitme ihtimalini güçlendiriyor. \n EN: This match also offers a strong case for the over 2.5 goals selection, as Brighton’s attacking approach at home naturally creates a high-tempo game with plenty of chances, while their defensive structure leaves space that opponents can exploit. Burnley’s poor defensive organization on the road and their tendency to concede once under sustained pressure increase the likelihood of multiple goals, especially if they are forced to chase the game. If Brighton score early, the match is likely to open up, with Burnley taking more risks and leaving gaps at the back, which further supports a goal-rich scenario. Overall, the combination of Brighton’s home dominance and Burnley’s fragile defense makes over 2.5 goals a logical and valuable betting option.",
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "lose",
   "accessRule": "ad",
   "odds": "1.68"
 }
@@ -89,8 +89,8 @@
     "ms_2"
   ],
   "description": "TR: Bu maçta MS 2 tercihi, Arsenal’in hem kadro kalitesi hem de oyun disipliniyle deplasmanda dahi tempoyu belirleyebilen bir takım olması ve Bournemouth’un güçlü rakiplere karşı savunma konsantrasyonunu uzun süre koruyamaması nedeniyle mantıklı görünüyor; Arsenal’in baskılı oyunu ve maç ilerledikçe artan hücum etkinliği, özellikle ikinci yarıda sonucun lehlerine dönmesini yüksek ihtimal haline getiriyor. \n The FT 2 pick in this match appears logical due to Arsenal’s squad quality and tactical discipline, which allow them to control the tempo even in away games, combined with Bournemouth’s difficulty in maintaining defensive concentration for long periods against stronger opponents. Arsenal’s high-pressure style and increasing attacking effectiveness as the match progresses make a result in their favor, especially in the second half, highly likely.",
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "win",
   "accessRule": "premium",
   "odds": "1.55"
 }
