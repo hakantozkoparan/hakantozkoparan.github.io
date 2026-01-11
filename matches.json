@@ -271,22 +271,6 @@
   "odds": "1.98"
 }
 {
-  "id": "19",
-  "homeTeam": "Sheffield Unt.",
-  "awayTeam": "Mansfield",
-  "league": "Championship",
-  "date": "11/01/2026",
-  "time": "17:30",
-  "predictions": [
-    "ms_1"
-  ],
-  "description": "", 
-  "status": "active",
-  "result": "null",
-  "accessRule": "free",
-  "odds": "1.40"
-}
-{
   "id": "20",
   "homeTeam": "Nacional",
   "awayTeam": "Santa Clara",
@@ -294,13 +278,13 @@
   "date": "11/01/2026",
   "time": "18:30",
   "predictions": [
-    "under_2_5"
+    "over_2_5"
   ],
   "description": "", 
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "win",
   "accessRule": "ad",
-  "odds": "1.45"
+  "odds": "1.95"
 }
 {
   "id": "21",
@@ -313,8 +297,8 @@
     "ms_1"
   ],
   "description": "", 
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "win",
   "accessRule": "ad",
   "odds": "1.61"
 }
