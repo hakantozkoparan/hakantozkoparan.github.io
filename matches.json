@@ -201,8 +201,8 @@
     "ms_1"
   ],
   "description": "", 
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "win",
   "accessRule": "premium",
   "odds": "1.72"
 }
@@ -214,11 +214,11 @@
   "date": "07/01/2026",
   "time": "23:15",
   "predictions": [
-    "ms_2"
+    "btts_yes"
   ],
   "description": "", 
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "win",
   "accessRule": "premium",
   "odds": "1.68"
 }
@@ -233,29 +233,13 @@
     "ms_2"
   ],
   "description": "", 
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "win",
   "accessRule": "ad",
   "odds": "1.40"
 }
 {
   "id": "17",
-  "homeTeam": "Manchester City",
-  "awayTeam": "Brighton",
-  "league": "premier_league",
-  "date": "07/01/2026",
-  "time": "22:30",
-  "predictions": [
-    "ms_1"
-  ],
-  "description": "", 
-  "status": "active",
-  "result": "null",
-  "accessRule": "ad",
-  "odds": "1.40"
-}
-{
-  "id": "18",
   "homeTeam": "Napoli",
   "awayTeam": "Hellas Verona",
   "league": "serie_a",
@@ -265,8 +249,8 @@
     "ms_1"
   ],
   "description": "", 
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "lose",
   "accessRule": "free",
   "odds": "1.35"
 }
