@@ -294,11 +294,11 @@
   "date": "24/01/2026",
   "time": "17:30",
   "predictions": [
-    "btts_yes"
+    "over_2_5"
   ],
   "description": "", 
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "win",
   "accessRule": "ad",
   "odds": "1.58"
 }
@@ -313,8 +313,8 @@
     "ms_2", "over_1_5"
   ],
   "description": "", 
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "win",
   "accessRule": "premium",
   "odds": "2.02"
 }
@@ -329,8 +329,8 @@
     "over_2_5"
   ],
   "description": "", 
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "win",
   "accessRule": "ad",
   "odds": "1.46"
 }
@@ -345,8 +345,8 @@
     "ms_1", "over_1_5"
   ],
   "description": "", 
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "lose",
   "accessRule": "premium",
   "odds": "1.51"
 }
