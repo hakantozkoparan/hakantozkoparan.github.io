@@ -286,6 +286,71 @@
   "accessRule": "ad",
   "odds": "1.61"
 }
+{
+  "id": "22",
+  "homeTeam": "Heidenheim",
+  "awayTeam": "Leipzig",
+  "league": "bundesliga",
+  "date": "24/01/2026",
+  "time": "17:30",
+  "predictions": [
+    "btts_yes"
+  ],
+  "description": "", 
+  "status": "active",
+  "result": "null",
+  "accessRule": "ad",
+  "odds": "1.58"
+}
+{
+  "id": "23",
+  "homeTeam": "Villarreal",
+  "awayTeam": "Real Madrid",
+  "league": "la_liga",
+  "date": "24/01/2026",
+  "time": "23:00",
+  "predictions": [
+    "ms_2", "over_1_5"
+  ],
+  "description": "", 
+  "status": "active",
+  "result": "null",
+  "accessRule": "premium",
+  "odds": "2.02"
+}
+{
+  "id": "24",
+  "homeTeam": "PSV",
+  "awayTeam": "NAC Breda",
+  "league": "eredivisie",
+  "date": "24/01/2026",
+  "time": "22:00",
+  "predictions": [
+    "over_2_5"
+  ],
+  "description": "", 
+  "status": "active",
+  "result": "null",
+  "accessRule": "ad",
+  "odds": "1.46"
+}
+{
+  "id": "25",
+  "homeTeam": "Twente",
+  "awayTeam": "Excelsior",
+  "league": "eredivisie",
+  "date": "24/01/2026",
+  "time": "23:00",
+  "predictions": [
+    "ms_1", "over_1_5"
+  ],
+  "description": "", 
+  "status": "active",
+  "result": "null",
+  "accessRule": "premium",
+  "odds": "1.51"
+}
+
 
 
 
