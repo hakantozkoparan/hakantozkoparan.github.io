@@ -376,7 +376,7 @@
   "predictions": [
     "btts_yes"
   ],
-  "description": "TR: Bir tarafın mutlaka kazanmak zorunda olduğu, diğerinin ise skor avantajını korumak için kontraya güveneceği bu tip "final" maçlarında, 1-1 veya 2-1 gibi skorlar en muhtemel sonuçlardır. \n EN: In these types of "final" matches, where one side absolutely must win and the other will rely on counter-attacks to maintain their advantage, scores like 1-1 or 2-1 are the most likely outcomes.", 
+  "description": "TR: Bir tarafın mutlaka kazanmak zorunda olduğu, diğerinin ise skor avantajını korumak için kontraya güveneceği bu tip final maçlarında, 1-1 veya 2-1 gibi skorlar en muhtemel sonuçlardır. \n EN: In these types of final matches, where one side absolutely must win and the other will rely on counter-attacks to maintain their advantage, scores like 1-1 or 2-1 are the most likely outcomes.", 
   "status": "active",
   "result": "null",
   "accessRule": "premium",
