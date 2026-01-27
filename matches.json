@@ -367,22 +367,6 @@
   "odds": "1.68"
 }
 {
-  "id": "26",
-  "homeTeam": "Al Ahli SC",
-  "awayTeam": "Al-Ettifaq",
-  "league": "saudi_pro_league",
-  "date": "28/01/2026",
-  "time": "20:30",
-  "predictions": [
-    "ms_1", "over_1_5"
-  ],
-  "description": "", 
-  "status": "active",
-  "result": "null",
-  "accessRule": "premium",
-  "odds": "1.50"
-}
-{
   "id": "27",
   "homeTeam": "Ajax",
   "awayTeam": "Olympiakos",
@@ -429,6 +413,22 @@
   "result": "null",
   "accessRule": "premium",
   "odds": "1.47"
+}
+{
+  "id": "26",
+  "homeTeam": "Al Ahli SC",
+  "awayTeam": "Al-Ettifaq",
+  "league": "saudi_pro_league",
+  "date": "28/01/2026",
+  "time": "20:30",
+  "predictions": [
+    "ms_1", "over_1_5"
+  ],
+  "description": "", 
+  "status": "active",
+  "result": "null",
+  "accessRule": "premium",
+  "odds": "1.50"
 }
 
 
