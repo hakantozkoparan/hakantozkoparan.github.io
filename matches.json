@@ -361,8 +361,8 @@
     "btts_yes"
   ],
   "description": "TR: Manchester City’nin ilk 8 için galibiyetten başka çaresi olmayışı arkada büyük boşluklar bırakmasına neden olacak; bu boşlukları değerlendirecek bir Victor Osimhen varken Galatasaray’ın gol bulması, Haaland liderliğindeki City’nin ise evinde skor üretmesi kaçınılmazdır. \n EN: Manchester City needing a win to stay in the top 8 will leave them with large gaps in their defense; with Victor Osimhen capable of exploiting these gaps, it's inevitable that Galatasaray will score, and City, led by Haaland, will find the net at home.", 
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "lose",
   "accessRule": "premium",
   "odds": "1.68"
 }
@@ -377,8 +377,8 @@
     "btts_yes"
   ],
   "description": "TR: Bir tarafın mutlaka kazanmak zorunda olduğu, diğerinin ise skor avantajını korumak için kontraya güveneceği bu tip final maçlarında, 1-1 veya 2-1 gibi skorlar en muhtemel sonuçlardır. \n EN: In these types of final matches, where one side absolutely must win and the other will rely on counter-attacks to maintain their advantage, scores like 1-1 or 2-1 are the most likely outcomes.", 
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "win",
   "accessRule": "premium",
   "odds": "1.50"
 }
@@ -393,8 +393,8 @@
     "ms_1"
   ],
   "description": "", 
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "lose",
   "accessRule": "ad",
   "odds": "1.32"
 }
@@ -409,8 +409,8 @@
     "btts_yes"
   ],
   "description": "TR: Real Madrid'in savunma hattındaki as isimlerin tamamının revirde olması Benfica'ya evinde 'gol izni' verirken; Mbappé ve Vinicius gibi hız canavarlarının, kazanmak zorunda olduğu için savunma güvenliğini ikinci plana atacak olan Benfica'yı cezalandırmaması imkansıza yakın. \n EN: With all of Real Madrid's key defenders out of action, Benfica were given ample opportunity to score at home; and it was almost impossible for speedsters like Mbappé and Vinicius not to punish Benfica, who would likely prioritize winning over defensive security.", 
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "win",
   "accessRule": "premium",
   "odds": "1.47"
 }
@@ -425,8 +425,8 @@
     "ms_1", "over_1_5"
   ],
   "description": "", 
-  "status": "active",
-  "result": "null",
+  "status": "finished",
+  "result": "win",
   "accessRule": "premium",
   "odds": "1.50"
 }
