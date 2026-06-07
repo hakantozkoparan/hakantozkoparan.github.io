@@ -1,4 +1,5 @@
 google.com, pub-5723540007566379, DIRECT, f08c47fec0942fa0
+vungle.com, 6a257e05e232bc7592ea8c8c, DIRECT, c107d686becd2d77
 pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163117, RESELLER, 5d62403b186f2ace
 sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2
