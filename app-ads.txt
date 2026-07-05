@@ -47,7 +47,7 @@ mars.media, 1010442, RESELLER
 rubiconproject.com, 17062, RESELLER, 0bfd66d529a55807
 improvedigital.com, 2297, RESELLER
 sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
-sharethrough.com, bc6d1whs, RESELLER, d53b998a7bd4ecd2
+sharethrough.com,Bc6D1WHS,RESELLER,d53b998a7bd4ecd2
 rubiconproject.com, 26132, RESELLER, 0bfd66d529a55807
 pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
 sharethrough.com, 5828-OB, RESELLER, d53b998a7bd4ecd2
@@ -76,7 +76,7 @@ appnexus.com, 17779, RESELLER
 smaato.com, 1100055750, RESELLER, 07bcf65f187117b4
 bold-win.com, 165, RESELLER, 71746737d0bab951
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
-media.net, 8cu12aq1y, RESELLER
+media.net,8CU12AQ1Y,RESELLER
 pubmatic.com, 156177, RESELLER, 5d62403b186f2ace
 brightcom.com, 23120, RESELLER
 app-stock.com, 358747, RESELLER
@@ -104,7 +104,7 @@ anzu.io, 691e95644e633a6eee2567ee, RESELLER, 1c1b7acf4992136c
 lacunads.com, lcb555b3bc8667a09a, RESELLER
 taurusx.com, 70079, RESELLER
 video.unrulymedia.com, 389957698, RESELLER
-sharethrough.com, bxzzb1br, RESELLER, d53b998a7bd4ecd2
+sharethrough.com,bXzzb1bR,RESELLER,d53b998a7bd4ecd2
 pokkt.com, 6246, RESELLER, c45702d9311e25fd
 triplelift.com, 13042, RESELLER
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
@@ -138,7 +138,7 @@ voisetech.com, 1066, RESELLER
 pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
 triplelift.com, 13883, RESELLER, 6c33edb13117fd86
 ignitemediatech.com, pub_11115, RESELLER
-media.net, 8cu9b72o6, RESELLER
+media.net,8CU9B72O6,RESELLER
 smartadserver.com, 5294, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4568, RESELLER, 060d053dcf45cbf3
 appnexus.com, 17234, RESELLER
